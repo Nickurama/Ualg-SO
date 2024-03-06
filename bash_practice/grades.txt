@@ -1,0 +1,4 @@
+Jose 5 1 2
+Antonio 8 12 4
+Manuel 1 2 3
+Diogo 20 19 19
